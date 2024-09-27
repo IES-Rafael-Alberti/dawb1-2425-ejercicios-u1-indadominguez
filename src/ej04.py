@@ -1,0 +1,3 @@
+#Cuarto ejercicio
+
+temperatura = 
