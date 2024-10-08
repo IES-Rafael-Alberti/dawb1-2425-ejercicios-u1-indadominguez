@@ -1,4 +1,4 @@
-#Segundo ejercicio
+# ejercicio 2
 
 trabajo = int(input("Horas de trabajo: "))
 coste = int(input("coste de horas: "))

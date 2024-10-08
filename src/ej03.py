@@ -1,4 +1,4 @@
-#Tercer ejercicio
+# ejercico 3
 
 ancho = 17 
 

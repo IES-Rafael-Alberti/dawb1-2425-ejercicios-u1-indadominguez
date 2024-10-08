@@ -1,4 +1,4 @@
-#Séptimo ejercicio
+# ejercicio 7
 
 num1 = float(input("Introduce el primer número: "))
 
