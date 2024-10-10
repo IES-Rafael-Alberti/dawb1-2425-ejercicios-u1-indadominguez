@@ -5,7 +5,7 @@ coste = int(input("coste de horas: "))
 
 total = str(trabajo * coste)
 
-print("Importe Total " + (total) + "")
+print("Importe Total ", total)
 
 #Es otra manera, la dejo para tener más opciones de solución
 
