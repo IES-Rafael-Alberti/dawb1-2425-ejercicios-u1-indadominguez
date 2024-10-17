@@ -29,7 +29,7 @@ def main():
     print(f"Total: {total}")
     print(f"Cantidad de números: {contador}")
     print(f"Media: {media}")
-    
+
 
 if __name__ == "__main__":
     main()

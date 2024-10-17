@@ -28,7 +28,7 @@ def introduce_numero(msj: str) -> float:
 
 
 def comprobar_triangulo_valido(a, b, c):
-    return (a + b >c) and(a + c >b) and (b + c > a)
+    return (a + b > c) and(a + c > b) and (b + c > a)
 
 
 def main():
