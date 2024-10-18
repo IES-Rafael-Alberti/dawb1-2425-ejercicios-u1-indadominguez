@@ -4,16 +4,14 @@ def convertir_temperatura():
     
     celsius = float(input("Introduce la temperatura en grados Celsius: "))
     
-    
     fahrenheit = (celsius * 9/5) + 32
-    
     
     resultado = f"{celsius:.2f}ºC ({fahrenheit:.2f}ºF) ({celsius:.2f}ºC)"
     
     return resultado
 
 def main():
-    # Llamar a la función y mostrar el resultado
+    
     resultado = convertir_temperatura()
     print(resultado)
 
