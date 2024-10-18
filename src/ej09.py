@@ -1,7 +1,5 @@
 # ejercicio 9
 
-print("La suma de los tres números es:",
-      
-      float(input("Introduce el primer número: ")) + 
-      float(input("Introduce el segundo número: ")) + 
-      float(input("Introduce el tercer número: ")))
+print(f"{sum(float(input(f'Ingresa el número {i+1}: ')) for i in range(3)):.2f}")
+
+# Me queaba muy largo el print si no utilizaba un for.

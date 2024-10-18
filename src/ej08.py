@@ -6,4 +6,6 @@ num2 = float(input("Introduce el segundo número: "))
 
 suma = num1 + num2
 
-print("La suma de los numeros es: ", num1 + num2 + float(input("Introduce el tercer número: ")))
+suma += float(input("Introduce el tercer número: "))
+
+print(f"La suma de los tres numeros es: {suma:.2f}")
