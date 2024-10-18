@@ -14,5 +14,5 @@ else:
     mes = partes_fecha[1].zfill(2)  
     año = partes_fecha[2]
 
-    # Mostrar el resultado
+    
     print(f"Día: {dia}, Mes: {mes}, Año: {año}")
