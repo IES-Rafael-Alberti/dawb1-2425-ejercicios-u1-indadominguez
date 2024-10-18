@@ -4,7 +4,7 @@ def suma_enteros(n):
     
     suma = sum(range(1, n + 1))
     
-    return f"La suma de los enteros desde 1 hasta {n} es: {suma}"
+    return f"La suma de los enteros desde 1 hasta ({n}) es: ({suma})"
 
 def main():
     
