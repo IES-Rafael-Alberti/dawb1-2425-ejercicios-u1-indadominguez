@@ -9,9 +9,13 @@ def num_mayor(num1, num2):
         return 0
     
 def main():
+   
     numero1 = float(input("Ingrese el primer número: "))
+    
     numero2 = float(input("Ingrese el segundo número: "))
+    
     resultado = num_mayor(numero1, numero2)
+    
     print(f"El resultado es: {resultado:.2f}")
 
 if __name__ == "__main__":
